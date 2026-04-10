@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aliyah AlGhunaim
 
-🧪 QA Engineer | 🔐 Cybersecurity Enthusiast  
-Focused on testing, analyzing, and improving software quality.
+🧪 QA Automation & Security Tester  
+🔐 Passionate about software quality and cybersecurity  
 
 ---
 
@@ -12,36 +12,69 @@ University of Hafr Al Batin (Expected June 2026)
 ---
 
 ## 💼 Experience
+
 QA Trainee – Tuwaiq Academy  
 - Gained hands-on experience in manual and automation testing  
 - Applied ISTQB fundamentals and Agile testing practices  
-- Built E2E automation tests using Cypress (OrangeHRM)  
+- Built end-to-end automation tests using Cypress  
+
+QA Trainee – Ministry of Interior (Internship)  
+- Performed API testing using Postman  
+- Validated request/response behavior and status codes  
+- Assisted in testing system functionalities and reporting issues  
 
 ---
 
 ## 🧠 Skills
+
+- Automation Testing (Cypress)  
 - Manual Testing & Test Case Design  
 - API Testing (Postman)  
-- Automation Testing (Cypress)  
+- Web Security Testing (OWASP Top 10)  
+- Nmap (Network Scanning)  
+- Burp Suite (Basic)  
 - Bug Reporting  
-- Basic SQL & Web Testing  
-- Security Testing Basics  
+- Git & GitHub  
+- Basic SQL  
 
 ---
 
 ## 📂 Projects
-- Manual Testing Project (Login System)  
-- API Testing Project (Postman)  
-- Cypress Automation Project (OrangeHRM)  
-- Web Security Testing (OWASP Juice Shop)  
+
+### 🧪 Cypress Automation – Swag Labs  
+🔗 https://github.com/YOUR-USERNAME/cypress-swaglabs-tests  
+- Built E2E automation framework using Cypress  
+- Implemented Page Object Model (POM)  
+- Integrated Allure Reports and CI/CD  
+
+---
+
+### 🔐 OWASP Juice Shop Security Testing  
+🔗 https://github.com/YOUR-USERNAME/owasp-juice-shop-testing  
+- Identified vulnerabilities (XSS, SQL Injection, Access Control)  
+- Documented findings with screenshots  
+
+---
+
+### 🔍 Nmap Network Scanning  
+🔗 https://github.com/YOUR-USERNAME/nmap-network-scanning  
+- Performed network scans and identified open ports/services  
+
+---
+
+### 🔐 Burp Suite (Basic)  
+🔗 https://github.com/YOUR-USERNAME/burp-suite-basics  
+- Intercepted HTTP requests and analyzed traffic  
 
 ---
 
 ## 🚀 Currently
 - Preparing for eJPT  
-- Practicing on TryHackMe & Juice Shop  
+- Practicing on TryHackMe & web security labs  
 
 ---
 
 ## 📫 Contact Me
-📧 alayh.smutairi@gmail.com
+📧 alayh.smutairi@gmail.com  
+🔗 GitHub: https://github.com/Dvealiyah
+🔗 LinkedIn: https://linkedin.com/in/aliyah-saud
