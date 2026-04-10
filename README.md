@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aliyah AlGhunaim
 
 🧪 QA Automation & Security Tester  
-🔐 Passionate about software quality and cybersecurity  
+🔐 Passionate about software quality, testing, and cybersecurity  
 
 ---
 
@@ -14,14 +14,14 @@ University of Hafr Al Batin (Expected June 2026)
 ## 💼 Experience
 
 QA Trainee – Tuwaiq Academy  
-- Gained hands-on experience in manual and automation testing  
-- Applied ISTQB fundamentals and Agile testing practices  
+- Hands-on experience in manual and automation testing  
+- Applied ISTQB principles and Agile testing practices  
 - Built end-to-end automation tests using Cypress  
 
 QA Trainee – Ministry of Interior (Internship)  
 - Performed API testing using Postman  
 - Validated request/response behavior and status codes  
-- Assisted in testing system functionalities and reporting issues  
+- Assisted in testing system functionalities and reporting bugs  
 
 ---
 
@@ -31,9 +31,9 @@ QA Trainee – Ministry of Interior (Internship)
 - Manual Testing & Test Case Design  
 - API Testing (Postman)  
 - Web Security Testing (OWASP Top 10)  
-- Nmap (Network Scanning)  
+- Network Scanning (Nmap)  
 - Burp Suite (Basic)  
-- Bug Reporting  
+- Bug Reporting & Analysis  
 - Git & GitHub  
 - Basic SQL  
 
@@ -41,40 +41,52 @@ QA Trainee – Ministry of Interior (Internship)
 
 ## 📂 Projects
 
-### 🧪 Cypress Automation – Swag Labs  
-🔗 https://github.com/YOUR-USERNAME/cypress-swaglabs-tests  
-- Built E2E automation framework using Cypress  
-- Implemented Page Object Model (POM)  
-- Integrated Allure Reports and CI/CD  
+### 🔐 OWASP Juice Shop Security Testing  
+🔗 https://github.com/Dvealiyah/owasp-juice-shop-testing  
+- Discovered vulnerabilities (XSS, SQL Injection, Broken Access Control)  
+- Documented findings with detailed screenshots  
 
 ---
 
-### 🔐 OWASP Juice Shop Security Testing  
-🔗 https://github.com/YOUR-USERNAME/owasp-juice-shop-testing  
-- Identified vulnerabilities (XSS, SQL Injection, Access Control)  
-- Documented findings with screenshots  
+### 🧪 Cypress Automation – Swag Labs  
+🔗 https://github.com/Dvealiyah/cypress-swaglabs-tests  
+- Built E2E automation framework using Cypress  
+- Implemented Page Object Model (POM)  
+- Integrated Allure Reports  
+
+---
+
+### 🔌 API Testing (Postman)  
+🔗 https://github.com/Dvealiyah/api-testing-postman  
+- Tested REST APIs and validated responses  
+- Created collections and test scenarios  
 
 ---
 
 ### 🔍 Nmap Network Scanning  
-🔗 https://github.com/YOUR-USERNAME/nmap-network-scanning  
-- Performed network scans and identified open ports/services  
+🔗 https://github.com/Dvealiyah/nmap-network-scanning  
+- Performed network scans  
+- Identified open ports and services  
 
 ---
 
 ### 🔐 Burp Suite (Basic)  
-🔗 https://github.com/YOUR-USERNAME/burp-suite-basics  
-- Intercepted HTTP requests and analyzed traffic  
+🔗 https://github.com/Dvealiyah/burp-suite-basics  
+- Intercepted HTTP requests  
+- Analyzed web traffic  
 
 ---
 
 ## 🚀 Currently
+
+- Preparing for ISTQB  
 - Preparing for eJPT  
 - Practicing on TryHackMe & web security labs  
 
 ---
 
 ## 📫 Contact Me
+
 📧 alayh.smutairi@gmail.com  
-🔗 GitHub: https://github.com/Dvealiyah
+🔗 GitHub: https://github.com/Dvealiyah  
 🔗 LinkedIn: https://linkedin.com/in/aliyah-saud
